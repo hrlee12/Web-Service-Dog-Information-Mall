@@ -50,7 +50,7 @@
 
 
 ## 3. 실행 방법
-- 배포 링크 : [dogdaze.xyz](dogdaze.xyz)
+- 배포 링크 : [dogdaze.xyz](http://dogdaze.xyz)
 - 백엔드
 ```
 cd server
